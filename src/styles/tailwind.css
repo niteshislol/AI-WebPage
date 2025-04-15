@@ -1,0 +1,5 @@
+/* This file imports Tailwind CSS styles for the project, allowing for utility-first styling. */
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
